@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **ASP.NET MVC , .NET Core**
+- 🌱 I’m currently learning **ASP.NET MVC , .NET Framework , .Net Core ,React.Js**
 
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
 
