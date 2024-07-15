@@ -5,8 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **ASP.NET MVC , .NET Framework , .NET Core ,**
-- 📄 My Goals : **Angular , Docker, Web API**
+- 🌱 I’m currently learning **ASP.NET MVC , .NET Framework , .NET Core , Docker , Microservices**
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
