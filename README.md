@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)
+
 
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">I am a student at Selcuk University and I work in the field of software development.</h3>
