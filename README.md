@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
+<img src="https://i.hizliresim.com/p86boa3.jpg">
 
-[![MasterHead](https://i.hizliresim.com/p86boa3.jpg)
 
 - 🌱 I’m currently Focusing on **Entity Framework Core , .Net Core Web Api**
 
