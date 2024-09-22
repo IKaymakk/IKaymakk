@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.hizliresim.com/p86boa3.jpg)
+[![MasterHead](https://i.hizliresim.com/p86boa3.jpg)
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">I am a student at Selçuk University and I work in the field of software development.</h3>
 
