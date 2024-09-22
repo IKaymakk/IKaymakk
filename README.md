@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-kaymak-853829267/](https://www.linkedin.com/in/ibrahim-kaymak-853829267/)
+- 📄 My Website ikaymak.com.tr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
