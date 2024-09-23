@@ -23,7 +23,10 @@
 
 <div align="left">
   <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=IKaymakk&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="200" width="400" alt="stats graph" />
+
+    <img src="https://github-readme-stats.vercel.app/api?username=IKaymakk&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
+
+    
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IKaymakk&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dark&hide_border=false" height="210" width="400" alt="languages graph" />
   </div>
   
