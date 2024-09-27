@@ -5,8 +5,7 @@
 - 🌱 I’m currently Focusing on **Entity Framework Core , .Net Core Web Api**
 
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
-
-- 📄 My Website **www.ikaymak.com.tr**
+**www.ikaymak.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
