@@ -2,7 +2,7 @@
 <img src="https://i.hizliresim.com/p86boa3.jpg">
 
 
-- 🌱 I’m currently Focusing on **Entity Framework Core , .Net Core Web Api**
+- 🌱 I’m currently Focusing on **React , RESTful API , Docker**
 
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
 **www.ikaymak.com.tr**
