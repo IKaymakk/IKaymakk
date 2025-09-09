@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm İbrahim</h1>
+<h1 align="center">Hi, I'm İbrahim</h1>
 <img src="https://i.hizliresim.com/p86boa3.jpg">
 
 
-- 🌱 I’m currently Focusing on **React , RESTful API , Docker**
+- 🌱 I’m currently Focusing on **.NET Ecosystem , RESTful API**
 
 - 📫 How to reach me **ibrahimkaymak817@outlook.com**
 
